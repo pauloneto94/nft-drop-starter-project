@@ -1,0 +1,23 @@
+{
+    "name": "João Victor #DRUNK2",
+    "symbol": "",
+    "image": "1.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "J4Smu6uJpTp6q2LvwdBhzC2xjxEYC8htmYhT9DUnf1eo",
+          "share": 100
+        }
+      ]
+    },
+    "collection": {
+      "name": "FlipCup Drunks",
+      "family": "numbers"
+    }
+  }

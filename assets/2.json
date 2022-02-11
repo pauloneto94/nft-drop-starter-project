@@ -1,0 +1,23 @@
+{
+    "name": "Paulo Neto #DRUNK3",
+    "symbol": "",
+    "image": "2.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "2.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "J4Smu6uJpTp6q2LvwdBhzC2xjxEYC8htmYhT9DUnf1eo",
+          "share": 100
+        }
+      ]
+    },
+    "collection": {
+      "name": "FlipCup Drunks",
+      "family": "numbers"
+    }
+  }
